@@ -15,7 +15,7 @@ sources:
       - zeroriscy_decoder.sv
       - zeroriscy_int_controller.sv
       - zeroriscy_ex_block.sv
-      - zeroriscy_register_file.sv
+      - zeroriscy_register_file_ff.sv
       - zeroriscy_id_stage.sv
       - zeroriscy_if_stage.sv
       - zeroriscy_load_store_unit.sv
